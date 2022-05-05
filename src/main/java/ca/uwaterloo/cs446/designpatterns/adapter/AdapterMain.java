@@ -3,6 +3,7 @@ package ca.uwaterloo.cs446.designpatterns.adapter;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class AdapterMain {
 	public static void main(String[] args) {
 		// Old objects
